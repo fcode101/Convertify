@@ -55,7 +55,7 @@ All converted files are saved to: Convertify_Output/
 ## Tutorial
 Youtube : 
 
-### License
+## License
 MIT
 
 #### Credits
