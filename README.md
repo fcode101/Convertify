@@ -22,7 +22,7 @@ Convertify
 ```
 
 ──── Convertify CLI Tool ────
-│ Choose an option:         
+│ Choose an option:          
 │ 1. Extract audio from video 
 │ 2. Convert audio format     
 │ 3. Convert image format     
@@ -45,8 +45,6 @@ Enter video file path: C:/Videos/sample.mp4
 Output
 All converted files are saved to: Convertify_Output/
 ```
-
-## Convertify_Output/
 #### Requirements
 - Python 3.7+
 - ffmpeg
@@ -54,14 +52,10 @@ All converted files are saved to: Convertify_Output/
 - pyfiglet
 - ffmpeg-python
 
-## Demo
+## Tutorial
 Youtube : 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you'd like to change.
-
-License
+### License
 MIT
 
 #### Credits
@@ -71,6 +65,5 @@ MIT
 - ffmpeg-python
 
 ## Connect
-💼 YouTube
-🐦 Twitter
-📸 Instagram
+💼 YouTube : https://www.youtube.com/@f-code101
+📸 Instagram : https://www.instagram.com/f_code101
