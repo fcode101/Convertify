@@ -5,7 +5,7 @@
 ## Installation
 This will automatically install everything you need.
 ```
-GitHub link https://github.com/yourusername/convertify-cli.git
+GitHub link https://github.com/fcode101/Convertify
 ```
 
 ## Usage
@@ -53,7 +53,7 @@ All converted files are saved to: Convertify_Output/
 - ffmpeg-python
 
 ## Tutorial
-Youtube : 
+Youtube : https://youtu.be/F349AS-Frow
 
 ## License
 MIT
