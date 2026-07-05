@@ -1,133 +1,141 @@
-# 🎛️ Convertify (Windows Executable)
+<div align="center">
 
-**Convertify** is a lightweight Windows tool that allows you to:
+# Convertify
 
-- 🎵 Extract audio from video  
-- 🔊 Convert audio formats  
-- 🖼️ Convert image formats  
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-system-requirements)
+[![Release](https://img.shields.io/badge/download-latest%20release-0F6E56?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcode101/Convertify/releases)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)](#-license)
 
-No Python. No setup. No technical knowledge required.  
-Just download and run.
-
----
-
-# 🚀 Download
-
-Download the latest version from the Releases section:
-
-```
-https://github.com/fcode101/Convertify/releases
-```
-
-Download **Convertify.exe** only.
+</div>
 
 ---
 
-# ▶️ How to Run
+## 🎛️ About
+
+**Convertify** is a lightweight Windows tool for everyday media conversion — no Python, no setup, no technical knowledge required. Just download and run.
+
+- 🎵 Extract audio from video
+- 🔊 Convert audio formats
+- 🖼️ Convert image formats
+
+---
+
+## 🚀 Download
+
+Grab the latest version from the **[Releases](https://github.com/fcode101/Convertify/releases)** page.
+
+> 📦 Download **`Convertify.exe`** only — nothing else is needed.
+
+---
+
+## ▶️ How to Run
 
 1. Download `Convertify.exe`
 2. Double-click the file
-3. The terminal interface will open automatically
+3. The terminal interface opens automatically:
 
-You will see:
 ```
-──── Convertify CLI Tool ────  
-│ Choose an option:  
-│ 1. Extract audio from video  
-│ 2. Convert audio format  
-│ 3. Convert image format  
+──── Convertify CLI Tool ────
+│ Choose an option:
+│ 1. Extract audio from video
+│ 2. Convert audio format
+│ 3. Convert image format
 ─────────────────────────────
 ```
+
 ---
 
-# 🛠 How to Use
+## 🛠️ How to Use
 
-## 🎵 Extract Audio from Video
+### 🎵 Extract Audio from Video
 
 1. Select option `1`
-2. Enter the full video file path  
-   Example:
-C:/Videos/sample.mp4
+2. Enter the full video file path
+   ```
+   C:/Videos/sample.mp4
+   ```
+3. Choose the output format (`mp3`, `wav`, etc.)
+4. The file saves automatically:
+   ```
+   ✅ Saved to: Convertify_Output/sample.mp3
+   ```
 
-3. Choose the output format (mp3, wav, etc.)
-4. File will be saved automatically
-
-Example output:
-```
-✅ Saved to: Convertify_Output/sample.mp3
-```
-
----
-
-## 🔊 Convert Audio Format
+### 🔊 Convert Audio Format
 
 1. Select option `2`
 2. Enter the audio file path
 3. Choose the desired output format
-4. Converted file will be saved automatically
+4. The converted file saves automatically
 
----
-
-## 🖼 Convert Image Format
+### 🖼️ Convert Image Format
 
 1. Select option `3`
 2. Enter the image file path
-3. Choose the output format (png, jpg, webp, etc.)
-4. Converted file will be saved automatically
+3. Choose the output format (`png`, `jpg`, `webp`, etc.)
+4. The converted file saves automatically
 
 ---
 
-# 📁 Output Folder
+## 📁 Output Folder
 
 All converted files are saved inside:
 
+```
 Convertify_Output/
+```
 
-
-
-If the folder does not exist, please create a folder named `Convertify_Output` or any name in the same directory as the executable before running the program.
-
+> If this folder doesn't exist yet, create a folder named `Convertify_Output` (or any name you like) in the same directory as the executable before running the program.
 
 ---
 
-# 💻 System Requirements
+## 💻 System Requirements
 
-- Windows 10 / 11
-- No additional software required
-
-Everything needed (including FFmpeg) is bundled inside the executable.
-
----
-
-# ⚠️ Windows Security Warning
-
-If Windows shows:
-
-> "Windows protected your PC"
-
-Click:
-- **More info**
-- Then click **Run anyway**
-
-This appears because the app is not digitally signed yet.
+| Requirement | Details |
+|---|---|
+| **OS** | Windows 10 / 11 |
+| **Dependencies** | None — FFmpeg is bundled inside the executable |
+| **Setup** | Not required |
 
 ---
 
-# 🎥 Tutorial
-### F-Code101
-[YouTube Tutorial](https://youtu.be/F349AS-Frow)
+## ⚠️ Windows Security Warning
+
+If Windows shows **"Windows protected your PC"**, this is expected — the app isn't digitally signed yet.
+
+1. Click **More info**
+2. Click **Run anyway**
 
 ---
 
-# 📜 License
+## 🎥 Tutorial
 
-MIT License  
-Free to use and distribute.
+<div align="center">
+
+**F-Code101**
+
+[![YouTube Tutorial](https://img.shields.io/badge/Watch%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/F349AS-Frow)
+
+</div>
 
 ---
 
-# 🤝 Connect
+## 📜 License
 
-[YouTube](https://www.youtube.com/@f-code101)
+Licensed under the **MIT License** — free to use and distribute.
 
-[Instagram](https://www.instagram.com/f_code101)
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.youtube.com/@f-code101"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/f_code101"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=100&section=footer" width="100%"/>
+
+</div>
